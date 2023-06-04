@@ -79,7 +79,7 @@ a {
 }
 /* From */
 .form_container {
-  overflow:scroll;
+  /*overflow:scroll;*/
   position: relative;
   max-width: 500px;
   max-height: 500px;
